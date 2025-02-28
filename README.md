@@ -6,7 +6,7 @@ You are responsible for how you are using this application, and for what it does
 
 The application itself is trivial, it will NOT damage your system, nor install any additional components.
 The application is not persistent, meaning that it will NOT start automatically at machine boot (unless you configure your system to do so).
-You can read, study, and modify the provided code. If you modify the code, you are responsible for what it does.
+You can read, study, and modify the provided code. If you modify the code, you are responsible for what it does (as always when you use this application).
 
 IMPORTANT:
 - BEST PRACTICE: Execute this application in a Virtual Machine with NO Internet access.
