@@ -1,6 +1,6 @@
-==================
+=======================================
 READ THIS BEFORE USING THE APPLICATION 
-==================
+
 
 This application is vulnerable! It is meant to be executed FOR TESTING PURPOSES ONLY.
 You are responsible for how you are using this application, and for what it does when it is attacked during an exploitation training session.
