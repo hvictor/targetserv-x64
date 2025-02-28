@@ -1,5 +1,4 @@
-=======================================
-READ THIS BEFORE USING THE APPLICATION 
+**READ THIS BEFORE USING THE APPLICATION**
 
 
 This application is vulnerable! It is meant to be executed FOR TESTING PURPOSES ONLY.
