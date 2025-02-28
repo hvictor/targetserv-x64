@@ -1,0 +1,1 @@
+gcc -o targetserv.exe targetserv.c -masm=intel -m64 -Wl,--image-base,0x0000447720400000 -Wl,--disable-dynamicbase -fno-stack-protector -lws2_32
