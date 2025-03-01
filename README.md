@@ -14,6 +14,9 @@ IMPORTANT:
 
 HOW YOU SHOULD USE THIS APPLICATION:
 - Ethically and diligently develop your x64 exploits against it, have a good time and enjoy. I hope it can help anyone to learn!
+- In this repository you can find one folder for each level, e.g. level-01, level-02, etc.
+- Different levels cover different types of vulnerabilities / exploitation techniques.
+- Levels are increasingly difficult, e.g. level-02 is more difficult than level-01, and so on.
 
 HOW YOU SHOULD *NOT* USE THIS APPLICATION:
 - You are NOT ALLOWED to store and/or run this application on any system that is not SPECIFICALLY AIMED AT EXPLOIT DEVELOPMENT TRAINING
