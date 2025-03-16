@@ -1,0 +1,1 @@
+gcc -o targetserv.exe targetserv.c -masm=intel -m64 -fno-stack-protector -lws2_32
