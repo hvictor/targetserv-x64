@@ -1,4 +1,4 @@
-** Level 02: Win 11 x64 ASLR + DEP Bypass & Egghunting **
+**Level 02: Win 11 x64 ASLR + DEP Bypass & Egghunting**
 
 HINTS ON HOW TO SOLVE THIS LEVEL:
 1. Perform Reverse Engineering using IDA or Ghidra and discover the updated network communication protocol.
